@@ -1,0 +1,9 @@
+{
+  "name": "observable-collection",
+  "description": "Enumerable collection of observable objects",
+  "version": "0.0.1",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "component/set": "*"
+  }
+}
