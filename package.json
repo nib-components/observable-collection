@@ -1,0 +1,16 @@
+{
+  "name": "@nib-components/observable-collection",
+  "version": "0.0.1",
+  "description": "Enumerable collection of observable objects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-components/observable-collection.git"
+  },
+  "dependencies": {
+    "set-component": "*"
+  },
+  "browser": {
+    "set": "set-component"
+  }
+}
